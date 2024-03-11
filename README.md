@@ -1,5 +1,5 @@
 <H3>NAME:Naveen Kumar S</H3>
-<H3>REGISTER NO:12221240033</H3>
+<H3>REGISTER NO: 212221240033</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
